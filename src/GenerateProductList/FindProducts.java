@@ -55,7 +55,7 @@ public class FindProducts
 		//Sorted the product list based on value of product/cu cm
 		//This places the products with high probability of getting selected at the top
 		//In future, this can be used to improvise the program to attain result even faster. Currently working on this.
-	    productKb.sortProductList("volume");
+	    //productKb.sortProductList("volume");
     }
     
     public static void main(String[] args) 
